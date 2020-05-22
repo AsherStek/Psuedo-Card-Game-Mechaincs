@@ -1,0 +1,25 @@
+The Cards:
+
+The "cards" are essentially an obfuscation for any standard combat options  i.e. attack, use potion, etc. Cards are individual items that will be stored in 
+a deck seperately and drawn during combat. The cards themselves can be expendable items that when used activate a skill. with a simple approach like so we can 
+easily make a large pool of cards with complex effects. The bulk of work when designing them would be in creating the actual skills used.
+
+The Deck:
+
+The way I envision the deck working is as a key item in the player's inventory. When they use it it will open up another menu listing the cards in the deck,
+the quantity of each, and the player's inventory. For simplicity's sake I'd say we just go with one deck to make it easier to manage. The player can select the 
+card items from their inventory and chose how many to move into the deck with the max to be determined. The deck essentially is a portable chest the keeps the 
+original items inside and creates duplicates during battle. The deck would require two main functions to operate during battle. It will need to know how many
+cards are still in the deck and the quanity of each card. Using this then whenever we ask to draw a card from the deck it would randomly choose from the current
+available cards and then adjust the values.
+
+The Hand:
+
+The "Hand" refers to the cards put into a player's inventory at the start of the match. It's kinda simple..., I'm not sure what a good starting "hand" or limit 
+would be but the comes in with balancing.
+
+The Combat:
+
+The combat is somewhere that is fairly open to interpretation. As I see it now within RPG Maker combat would handle essentially the same as a normal RPG Maker
+game with enemy "dualists" or such simply programed to use items drawn from their own decks. I'm not the best with prentation so this has been my personal 
+roadblock for the system. I'd hope that if we go with this system that some ideas would come up.
