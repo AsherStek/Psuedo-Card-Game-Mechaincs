@@ -15,3 +15,6 @@ By, ScorpioGameKing
     it's own as a combat system, I do realize the it's incredibly simple and would
     most likely get old rather quick. As such I see this as more of a foundation
     to turn into something that as a team we can be proud of.
+
+    Odd's are that I'm not here for the stream so hopefully this makes sense and
+    if there are any questions then feel free to msg me.

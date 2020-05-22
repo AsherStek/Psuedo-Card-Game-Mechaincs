@@ -21,5 +21,5 @@ would be but the comes in with balancing.
 The Combat:
 
 The combat is somewhere that is fairly open to interpretation. As I see it now within RPG Maker combat would handle essentially the same as a normal RPG Maker
-game with enemy "dualists" or such simply programed to use items drawn from their own decks. I'm not the best with prentation so this has been my personal 
-roadblock for the system. I'd hope that if we go with this system that some ideas would come up.
+game with enemy "dualists" which are simply programed to use items drawn from their own decks. I'm not the best with prentation so this has been my personal 
+roadblock for the system. I'd hope that if we go with this system that we'd come up with an interesting implementation/presentation.
