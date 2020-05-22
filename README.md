@@ -1,16 +1,17 @@
-# Two Tribes Battle System Idea - Scorpio
+# Psuedo Card Game Battle System
 
-## Cards
+By, ScorpioGameKing
 
-    The "cards" are essentially an obfuscation for any standard combat options 
-    i.e. attack, use potion, etc. Cards are individual items that will be store in 
-    a deck seperately. By approaching it like this actually desiging a large amount 
-    of cards will be fairly simple as the only difficult part of would be tying 
-    actions to the card item. I also believe the approach would allow us to spend more
-    time working on more complex features with card interation.
+## Synopsis
 
-## Decks
+    The idea is fairly basic (if this is used in RPG Maker) as all we're doing is
+    obfuscating the normal commands with "cards" which are just items that execute
+    the command. The more time consuming part of creating the system would most
+    likely be the AI, Deck Management, and balancing. With how cards are made it'd
+    be fairly easy to make a wide variety just with the built in RPG Maker options.
 
-    A deck can be treated as a single item in the player's inventory that opens another sub menu to edit the deck. 
-
-## Battle
+    Now this idea is still fairly simple and hopefully that'd make it easier to 
+    incorperate team member's ideas and build it further. While it can function on
+    it's own as a combat system, I do realize the it's incredibly simple and would
+    most likely get old rather quick. As such I see this as more of a foundation
+    to turn into something that as a team we can be proud of.
